@@ -23,6 +23,16 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Majesticrise/Majesticrise/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Majesticrise/Majesticrise/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Majesticrise/Majesticrise/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
 ## 📊 GitHub Stats
 
 ![Metrics](https://raw.githubusercontent.com/Majesticrise/Majesticrise/main/github-metrics.svg)
@@ -48,16 +58,6 @@
 #### [MCAnalyzer](https://github.com/Majesticrise/MCAnalyzer)
 > A Minecraft analysis tool currently under development.  
 > `Python`
-
----
-
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Majesticrise/Majesticrise/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Majesticrise/Majesticrise/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Majesticrise/Majesticrise/output/github-contribution-grid-snake.svg">
-</picture>
 
 ---
 
