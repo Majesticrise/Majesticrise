@@ -21,6 +21,13 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
+
+---
+
+## 📊 GitHub Stats
+
+![Metrics](https://raw.githubusercontent.com/Majesticrise/Majesticrise/main/github-metrics.svg)
+
 ---
 
 ## 🐍 Contribution Snake
@@ -31,11 +38,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Majesticrise/Majesticrise/output/github-contribution-grid-snake.svg">
 </picture>
 
----
-
-## 📊 GitHub Stats
-
-![Metrics](https://raw.githubusercontent.com/Majesticrise/Majesticrise/main/github-metrics.svg)
 
 ---
 
