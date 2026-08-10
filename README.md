@@ -29,9 +29,10 @@
 ![Metrics](https://raw.githubusercontent.com/Majesticrise/Majesticrise/main/github-metrics.svg)
 
 ---
-## 📊 Most Used Languages
+### 🏷️ Most Used Languages
 
-![Majesticrise's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=Majesticrise&show_icons=true&count_private=true&theme=gotham)
+![Majesticrise's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Majesticrise&layout=compact&hide_border=true&langs_count=10)
+
 ---
 
 ## 🐍 Contribution Snake
