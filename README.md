@@ -31,7 +31,7 @@
 ---
 ### 🏷️ Most Used Languages
 
-![Majesticrise's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Majesticrise&layout=compact&hide_border=true&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Majesticrise)
 
 ---
 
