@@ -29,6 +29,16 @@
 ![Metrics](https://raw.githubusercontent.com/Majesticrise/Majesticrise/main/github-metrics.svg)
 
 ---
+## 📊 GitHub Stats
+
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/Majesticrise/Majesticrise/main/github-metrics.svg" alt="Metrics" width="100%"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Majesticrise&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Langs" width="100%"></td>
+  </tr>
+</table>
+
+---
 
 ## 🐍 Contribution Snake
 
