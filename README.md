@@ -8,7 +8,7 @@
 ## 👋 Hi, I'm Majesticrise
 
 - 🔭 I’m currently working on **Minecraft server tools & plugins**
-- 🌱 I’m learning advanced async Python and Paper plugin development
+- 🌱 I’m learning advanced async Java and Paper plugin development
 - 👯 I’m open to collaborating on interesting Minecraft or automation projects
 - 💬 Ask me about **Python, Java, Paper plugins, and server monitoring**
 
