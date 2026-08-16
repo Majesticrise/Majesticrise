@@ -8,8 +8,8 @@
 ## 👋 Hi, I'm Majesticrise
 
 - 🔭 I’m currently working on **Minecraft server tools & plugins**
-- 🌱 I’m learning advanced async Java and Paper plugin development
-- 👯 I’m open to collaborating on interesting Minecraft or automation projects
+- 🌱 I’m currently diving into asynchronous Java and advanced Paper plugin development
+- 👯 I’m always open to collaborating on interesting Minecraft or automation projects
 - 💬 Ask me about **Python, Java, Paper plugins, and server monitoring**
 
 ---
@@ -31,7 +31,7 @@
 ---
 ### 🏷️ Most Used Languages
 
-[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Majesticrise)]
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Majesticrise)
 
 ---
 
@@ -54,17 +54,21 @@
 
 ## 🧩 Featured Projects
 
+#### [ServerFinder](https://github.com/Majesticrise/ServerFinder)
+> A high‑performance, self‑adaptive Minecraft Java server scanner featuring SOCKS5 proxy fission, intelligent concurrency tuning, and IP‑based result deduplication.  
+> `Java` `Minecraft` `Network Tools` `Concurrency`
+
 #### [MC-Server-Bulk-Status-Checker](https://github.com/Majesticrise/MC-Server-Bulk-Status-Checker)
-> A command-line tool that uses `mcstatus` to asynchronously and concurrently check the status of multiple Minecraft servers, with table output and retry on failure.  
+> A command‑line tool that asynchronously checks multiple Minecraft servers in parallel using `mcstatus`. It reads server lists from files, displays results in a clean table, and automatically retries failed checks.  
 > `Python` `Async` `mcstatus` `Batch-Checker`
 
 #### [BookPrinter](https://github.com/Majesticrise/BookPrinter)
-> A Paper plugin that generates Minecraft books from text files.  
+> A Paper plugin that generates in‑game Minecraft books from plain text files, perfect for importing lore, guides, or stories into your server.  
 > `Java` `Paper` `Minecraft Plugin`
 
 #### [MCAnalyzer](https://github.com/Majesticrise/MCAnalyzer)
-> A Minecraft analysis tool currently under development.  
-> `Python`
+> An analytical toolkit for Minecraft (under active development) – designed to provide insights into server performance, world data, and player behavior.  
+> `Python` `Analysis` `Minecraft`
 
 ---
 
