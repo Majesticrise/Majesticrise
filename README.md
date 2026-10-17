@@ -44,11 +44,6 @@
 
 ---
 
-## 📈 GitHub Activity Graph
-
-[![Majesticrise's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Majesticrise)](https://github.com/ashutosh00710/github-readme-activity-graph)
----
-
 ## 🧩 Featured Projects
 
 #### [ServerFinder](https://github.com/Majesticrise/ServerFinder)
