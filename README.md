@@ -64,10 +64,6 @@
 > A Paper plugin that effortlessly transforms plain text files into fully fledged in‑game Minecraft books — ideal for weaving lore, guides, or immersive narratives directly into your server's world.  
 > `Java` `Paper` `Minecraft Plugin`
 
-#### [MCAnalyzer](https://github.com/Majesticrise/MCAnalyzer)
-> An evolving analytical toolkit for Minecraft, built to surface deep insights into server performance, world topography, and player behavioral patterns.  
-> `Python` `Analysis` `Minecraft`
-
 ---
 
 > ⚡ Fun fact: I'm on a quiet mission to make Minecraft server management not just functional, but genuinely enjoyable — one tool at a time.
