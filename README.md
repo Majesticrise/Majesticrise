@@ -1,6 +1,6 @@
 <!-- Header: Typing effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Minecraft+%26+Server+Tool+Developer;Python+%26+Java+Enthusiast;Rust+%7C+Networking+%7C+Automation;Always+Learning+New+Things!&font=Fira%20Code&center=true&width=520&height=45&color=f75c7e&vCenter=true&size=22" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Minecraft+%26+Server+Tool+Developer;Python+%26+Java+Enthusiast;Rust+%7C+Proxy+%26+Network+Tooling;Always+Learning+New+Things!&font=Fira%20Code&center=true&width=560&height=45&color=f75c7e&vCenter=true&size=22" alt="Typing SVG">
 </p>
 
 ---
@@ -11,7 +11,7 @@
 - 🦀 Building **OpenCodeProxy**, a Rust-based OpenAI-compatible reverse proxy with proxy-pool management, streaming adaptation, and a built-in dashboard.
 - 🌱 Deep-diving into **asynchronous Java**, **Paper/Folia plugin architecture**, and **network tooling**.
 - 👯 Always eager to team up on compelling **Minecraft**, **automation**, or **developer-tooling** projects.
-- 💬 Ask me about **Python, Java, Paper internals, server telemetry, or proxy/network tools** — I love talking shop.
+- 💬 Ask me about **Python, Java, Paper internals, server monitoring, or proxy/network tools** — I love talking shop.
 - 📍 Guangzhou, China.
 
 ---
@@ -22,10 +22,10 @@
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![C%23](https://img.shields.io/badge/-C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-**Also working with:** Paper / Folia · SQLite · TCP/UDP · SOCKS5 · HTTP proxies · async concurrency · CLI tooling
+**Minecraft ecosystem:** Paper / Folia · Vault soft-dependency  
+**Networking & infra:** SQLite · TCP/UDP · SOCKS5 · HTTP proxies · async concurrency · CLI tooling
 
 ---
 
@@ -52,7 +52,7 @@
 ## 🧩 Featured Projects
 
 #### [OpenCodeProxy](https://github.com/Majesticrise/OpenCodeProxy)
-> A Rust-based OpenAI-compatible reverse proxy for OpenCode Zen, featuring identity/session compatibility, automatic tool injection, proxy-pool health management, streaming adaptation, and a built-in WebUI with persistent metrics.
+> A Rust-based OpenAI-compatible reverse proxy for OpenCode Zen, featuring identity/session compatibility, automatic tool injection, proxy-pool health management, streaming adaptation, and a built-in WebUI with persistent metrics. **Actively maintained.**
 > `Rust` `Reverse Proxy` `OpenAI-Compatible` `Networking`
 
 #### [ServerFinder](https://github.com/Majesticrise/ServerFinder)
@@ -69,26 +69,26 @@
 
 ---
 
-## 🔧 More Projects
+## 🧪 Experiments & Smaller Tools
 
 | Project | Stack | Notes |
 |---|---|---|
-| [CheckProxy](https://github.com/Majesticrise/CheckProxy) | Java | Early-stage proxy checking utility |
-| [WifiRoam](https://github.com/Majesticrise/WifiRoam) | C# / Avalonia | Experimental Wi-Fi roaming desktop tool |
-| [Majesticrise.github.io](https://github.com/Majesticrise/Majesticrise.github.io) | HTML / Jekyll | Personal site, based on beautiful-jekyll |
+| [CheckProxy](https://github.com/Majesticrise/CheckProxy) | Java | CLI proxy checker with tabular output; early-stage, README pending |
+| [WifiRoam](https://github.com/Majesticrise/WifiRoam) | C# / Avalonia | Desktop Wi-Fi roaming tool with GitHub-release updater; experimental |
 
 ---
 
 ## 🔗 Connect
 
-- 🎮 Bilibili: [space.bilibili.com/3493114226411557](https://space.bilibili.com/3493114226411557)
+- 🎮 Bilibili: [space.bilibili.com/3493114226411557](https://space.bilibili.com/3493114226411557) — Minecraft 工具开发 & 服务器管理相关
 - 🌐 Blog: [majesticrise.github.io](https://majesticrise.github.io/)
+- 💬 GitHub Issues are the best way to reach me about a specific repository.
 
 ---
 
 ## ⚠️ A quick note on use
 
-Some projects here involve **network scanning, proxy management, or third-party service compatibility**. They're meant for **authorized testing, research, and infrastructure you own or have permission to access**. Please respect rate limits and service terms.
+Some projects here involve **network scanning, proxy management, or working with third-party services**. They're meant for **authorized testing, research, and infrastructure you own or have permission to access**. Please respect rate limits and service terms.
 
 ---
 
