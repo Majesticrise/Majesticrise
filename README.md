@@ -1,25 +1,32 @@
 <!-- Header: Typing effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Minecraft+%26+Server+Tool+Developer;Python+%26+Java+Enthusiast;Always+Learning+New+Things!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Minecraft+%26+Server+Tool+Developer;Python+%26+Java+Enthusiast;Rust+%7C+Networking+%7C+Automation;Always+Learning+New+Things!&font=Fira%20Code&center=true&width=520&height=45&color=f75c7e&vCenter=true&size=22" alt="Typing SVG">
 </p>
 
 ---
 
 ## 👋 Hi, I'm Majesticrise
 
-- 🔭 Currently crafting **Minecraft server tools & plugins** — from the ground up.
-- 🌱 Deep‑diving into **asynchronous Java** and the intricacies of Paper plugin architecture.
-- 👯 Always eager to team up on compelling Minecraft or automation‑driven projects.
-- 💬 Ask me about **Python, Java, Paper internals, or server telemetry** — I love talking shop.
+- 🔭 Currently crafting **Minecraft server tools & plugins** — and occasionally going down the networking rabbit hole.
+- 🦀 Building **OpenCodeProxy**, a Rust-based OpenAI-compatible reverse proxy with proxy-pool management, streaming adaptation, and a built-in dashboard.
+- 🌱 Deep-diving into **asynchronous Java**, **Paper/Folia plugin architecture**, and **network tooling**.
+- 👯 Always eager to team up on compelling **Minecraft**, **automation**, or **developer-tooling** projects.
+- 💬 Ask me about **Python, Java, Paper internals, server telemetry, or proxy/network tools** — I love talking shop.
+- 📍 Guangzhou, China.
 
 ---
 
 ## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![C%23](https://img.shields.io/badge/-C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+**Also working with:** Paper / Folia · SQLite · TCP/UDP · SOCKS5 · HTTP proxies · async concurrency · CLI tooling
 
 ---
 
@@ -27,10 +34,9 @@
 
 ![Metrics](https://raw.githubusercontent.com/Majesticrise/Majesticrise/main/github-metrics.svg)
 
----
 ### 🏷️ Most Used Languages
 
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Majesticrise)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Majesticrise&layout=compact&langs_count=8)
 
 ---
 
@@ -46,17 +52,57 @@
 
 ## 🧩 Featured Projects
 
-#### [ServerFinder](https://github.com/Majesticrise/ServerFinder)
-> A high‑performance, self‑adaptive Minecraft Java server scanner that harnesses SOCKS5 proxy fission, intelligent concurrency orchestration, and IP‑based result deduplication to power large‑scale discovery with surgical precision.  
-> `Java` `Minecraft` `Network Tools` `Concurrency`
+### [OpenCodeProxy](https://github.com/Majesticrise/OpenCodeProxy)
+> A Rust-based OpenAI-compatible reverse proxy for OpenCode Zen, featuring identity/session compatibility, automatic tool injection, proxy-pool health management, streaming adaptation, and a built-in WebUI with persistent metrics.
+>
+> `Rust` `Reverse Proxy` `OpenAI-Compatible` `Networking`
 
-#### [MC-Server-Bulk-Status-Checker](https://github.com/Majesticrise/MC-Server-Bulk-Status-Checker)
-> A command‑line powerhouse that asynchronously fans out to multiple Minecraft servers via `mcstatus`, ingests server lists from files, renders clean tabular output, and resiliently retries failed checks.  
-> `Python` `Async` `mcstatus` `Batch-Checker`
+### [ServerFinder](https://github.com/Majesticrise/ServerFinder)
+> A high-performance, self-adaptive Minecraft Java server scanner for **authorized testing and server discovery**, with SOCKS5 proxy support, intelligent concurrency tuning, and IP-based result deduplication.
+>
+> `Java` `Minecraft` `Network Tools` `Concurrency` `SOCKS5`
 
-#### [BookPrinter](https://github.com/Majesticrise/BookPrinter)
-> A Paper plugin that effortlessly transforms plain text files into fully fledged in‑game Minecraft books — ideal for weaving lore, guides, or immersive narratives directly into your server's world.  
-> `Java` `Paper` `Minecraft Plugin`
+### [MajesticChat](https://github.com/Majesticrise/MajesticChat)
+> A decentralized mesh communication and LAN-over-P2P toolkit for small private groups, built around EasyTier overlay networking — encrypted chat, low-latency voice, P2P file transfer, and LAN game support.
+>
+> `Python` `EasyTier` `P2P` `Encrypted Chat` `Voice`
+
+### [BookPrinter](https://github.com/Majesticrise/BookPrinter)
+> A Paper/Folia plugin that transforms plain text files into fully fledged in-game Minecraft books — with smart pagination, MiniMessage/RGB support, and i18n.
+>
+> `Java` `Paper` `Folia` `Minecraft Plugin`
+
+---
+
+## 🔧 More Projects & Experiments
+
+| Project | Stack | Notes |
+|---|---|---|
+| [CheckProxy](https://github.com/Majesticrise/CheckProxy) | Java | Early-stage proxy checking utility |
+| [WifiRoam](https://github.com/Majesticrise/WifiRoam) | C# / Avalonia | Experimental Wi-Fi roaming desktop tool |
+| [Majesticrise.github.io](https://github.com/Majesticrise/Majesticrise.github.io) | HTML / Jekyll | Personal site, based on beautiful-jekyll |
+
+> Some repositories are private or work-in-progress. Public descriptions are updated as projects stabilize.
+
+---
+
+## 🔗 Connect
+
+- 🎮 Bilibili: [space.bilibili.com/3493114226411557](https://space.bilibili.com/3493114226411557)
+- 🌐 Blog / Site: [majesticrise.github.io](https://majesticrise.github.io/)
+- 💬 GitHub Issues are the best way to reach me about a specific repository.
+
+---
+
+## ⚠️ Responsible Use
+
+Some of my projects involve **network scanning, proxy management, server discovery, or third-party service compatibility**. These tools are intended for:
+
+- authorized testing and research,
+- educational purposes,
+- managing servers and infrastructure you own or have permission to access.
+
+Please do not use them for unauthorized scanning, abuse, bypassing service terms, or any activity that violates applicable laws or platform policies. Always respect rate limits, service terms, and the rights of others.
 
 ---
 
