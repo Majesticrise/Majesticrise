@@ -1,109 +1,52 @@
-<!-- Header: Typing effect -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Minecraft+%26+Server+Tool+Developer;Python+%26+Java+Enthusiast;Rust+%7C+Networking+%7C+Automation;Always+Learning+New+Things!&font=Fira%20Code&center=true&width=520&height=45&color=f75c7e&vCenter=true&size=22" alt="Typing SVG">
-</p>
+# Majesticrise
+
+Minecraft server tooling · Java / Rust / Python · Guangzhou
+
+I build tools that make Minecraft server operation less opaque — scanners, proxies, plugins, and the occasional P2P rabbit hole.
 
 ---
 
-## 👋 Hi, I'm Majesticrise
+## What I'm building
 
-- 🔭 Currently crafting **Minecraft server tools & plugins** — and occasionally going down the networking rabbit hole.
-- 🦀 Building **OpenCodeProxy**, a Rust-based OpenAI-compatible reverse proxy with proxy-pool management, streaming adaptation, and a built-in dashboard.
-- 🌱 Deep-diving into **asynchronous Java**, **Paper/Folia plugin architecture**, and **network tooling**.
-- 👯 Always eager to team up on compelling **Minecraft**, **automation**, or **developer-tooling** projects.
-- 💬 Ask me about **Python, Java, Paper internals, server telemetry, or proxy/network tools** — I love talking shop.
-- 📍 Guangzhou, China.
+**[OpenCodeProxy](https://github.com/Majesticrise/OpenCodeProxy)** — A Rust reverse proxy that makes OpenCode Zen accessible through any OpenAI-compatible client.  
+Handles identity compatibility, proxy-pool health management, streaming adaptation, and persistent metrics behind a single binary.
 
----
+**[ServerFinder](https://github.com/Majesticrise/ServerFinder)** — Adaptive-concurrency Minecraft server discovery for authorized testing.  
+SOCKS5 proxy fission, IP-based deduplication, and real-time concurrency tuning built for large-scale network hygiene work.
 
-## 🛠️ Tech Stack
+**[BookPrinter](https://github.com/Majesticrise/BookPrinter)** — Paper/Folia plugin that turns flat text into in-game books.  
+Smart pagination, MiniMessage/RGB rendering, i18n, and a Vault soft-dependency for server economies.
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![C%23](https://img.shields.io/badge/-C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-**Also working with:** Paper / Folia · SQLite · TCP/UDP · SOCKS5 · HTTP proxies · async concurrency · CLI tooling
+**[MajesticChat](https://github.com/Majesticrise/MajesticChat)** — EasyTier-based mesh communication for small private groups.  
+Encrypted chat over SQLite, Opus voice with adaptive jitter buffer, P2P file transfer, and LAN-over-P2P game tunneling.
 
 ---
 
-## 📊 GitHub Stats
+## Currently digging into
 
-![Metrics](https://raw.githubusercontent.com/Majesticrise/Majesticrise/main/github-metrics.svg)
-
-### 🏷️ Most Used Languages
-
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Majesticrise&layout=compact&langs_count=8)
+- **Async Java** — non-blocking I/O patterns in Paper plugin architecture
+- **Proxy/network tooling** — pool orchestration, protocol compatibility, failure cooldowns
+- **Folia scheduling** — region-based multithreading for Minecraft server plugins
 
 ---
 
-## 🐍 Contribution Snake
+## Stack
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Majesticrise/Majesticrise/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Majesticrise/Majesticrise/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Majesticrise/Majesticrise/output/github-contribution-grid-snake.svg">
-</picture>
+`Java` `Rust` `Python` `C#`  
+Paper / Folia · SQLite · TCP/UDP · SOCKS5 · HTTP proxies · async concurrency · CLI tooling
 
 ---
 
-## 🧩 Featured Projects
+## Other repos
 
-### [OpenCodeProxy](https://github.com/Majesticrise/OpenCodeProxy)
-> A Rust-based OpenAI-compatible reverse proxy for OpenCode Zen, featuring identity/session compatibility, automatic tool injection, proxy-pool health management, streaming adaptation, and a built-in WebUI with persistent metrics.
->
-> `Rust` `Reverse Proxy` `OpenAI-Compatible` `Networking`
-
-### [ServerFinder](https://github.com/Majesticrise/ServerFinder)
-> A high-performance, self-adaptive Minecraft Java server scanner for **authorized testing and server discovery**, with SOCKS5 proxy support, intelligent concurrency tuning, and IP-based result deduplication.
->
-> `Java` `Minecraft` `Network Tools` `Concurrency` `SOCKS5`
-
-### [MajesticChat](https://github.com/Majesticrise/MajesticChat)
-> A decentralized mesh communication and LAN-over-P2P toolkit for small private groups, built around EasyTier overlay networking — encrypted chat, low-latency voice, P2P file transfer, and LAN game support.
->
-> `Python` `EasyTier` `P2P` `Encrypted Chat` `Voice`
-
-### [BookPrinter](https://github.com/Majesticrise/BookPrinter)
-> A Paper/Folia plugin that transforms plain text files into fully fledged in-game Minecraft books — with smart pagination, MiniMessage/RGB support, and i18n.
->
-> `Java` `Paper` `Folia` `Minecraft Plugin`
+[CheckProxy](https://github.com/Majesticrise/CheckProxy) · [WifiRoam](https://github.com/Majesticrise/WifiRoam) · [Majesticrise.github.io](https://github.com/Majesticrise/Majesticrise.github.io)
 
 ---
 
-## 🔧 More Projects & Experiments
+## Notes on use
 
-| Project | Stack | Notes |
-|---|---|---|
-| [CheckProxy](https://github.com/Majesticrise/CheckProxy) | Java | Early-stage proxy checking utility |
-| [WifiRoam](https://github.com/Majesticrise/WifiRoam) | C# / Avalonia | Experimental Wi-Fi roaming desktop tool |
-| [Majesticrise.github.io](https://github.com/Majesticrise/Majesticrise.github.io) | HTML / Jekyll | Personal site, based on beautiful-jekyll |
-
-> Some repositories are private or work-in-progress. Public descriptions are updated as projects stabilize.
+Scanner and proxy tools here are built for **authorized testing, research, and infrastructure you own or have permission to access**. Respect rate limits and service terms.
 
 ---
 
-## 🔗 Connect
-
-- 🎮 Bilibili: [space.bilibili.com/3493114226411557](https://space.bilibili.com/3493114226411557)
-- 🌐 Blog / Site: [majesticrise.github.io](https://majesticrise.github.io/)
-- 💬 GitHub Issues are the best way to reach me about a specific repository.
-
----
-
-## ⚠️ Responsible Use
-
-Some of my projects involve **network scanning, proxy management, server discovery, or third-party service compatibility**. These tools are intended for:
-
-- authorized testing and research,
-- educational purposes,
-- managing servers and infrastructure you own or have permission to access.
-
-Please do not use them for unauthorized scanning, abuse, bypassing service terms, or any activity that violates applicable laws or platform policies. Always respect rate limits, service terms, and the rights of others.
-
----
-
-> ⚡ Fun fact: I'm on a quiet mission to make Minecraft server management not just functional, but genuinely enjoyable — one tool at a time.
+Bilibili ↗ [space.bilibili.com/3493114226411557](https://space.bilibili.com/3493114226411557)
